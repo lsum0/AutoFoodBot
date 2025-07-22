@@ -116,9 +116,4 @@ The system is composed of:
 
 
 
-## 📸 Visual Resources
-
-> Add here: TinkerCAD link, 3D sketch, circuit photo, or GIF demo.
-
----
 
