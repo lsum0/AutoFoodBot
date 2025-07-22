@@ -14,6 +14,7 @@ This project aims to design and implement a **fully autonomous robotic system** 
 
 By combining robotics, artificial intelligence, and automation, the system enhances operational efficiency, hygiene, and safety within food storage environments.
 
+![]()
 ---
 
 ##  2. Objectives :
